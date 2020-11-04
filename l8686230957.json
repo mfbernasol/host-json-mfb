@@ -1,0 +1,13 @@
+{
+    "firstName": "Peter",
+    "lastName": "Parker",
+    "preferredName": "Spiderman",
+    "email": "spideyt@lewisu.edu",
+    "phoneNumber": "800-spider-mann",
+    "city": "New York City",
+    "state": "NY",
+    "zip": "11358",
+    "lat": "40.73",
+    "lng": "-73.935242",
+    "favoriteHobby": "Web slinging"
+}
